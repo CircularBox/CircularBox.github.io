@@ -9,4 +9,8 @@ Welcome To my GitHub Pages Portfolio
 - Game Design
 - Unity Game Engine
 - 3D Modelling (Blender)
-- 
+
+<span style="font-size: 2em;"> **Me As A Developer** </span>
+- I want to make games that I and other will enjoy playing for hours on end.
+- Great games are made from a place of passion, mediocre games are made from a place of profit.
+- The possibility for games that can be made is endless, many developrs don't take risks like they used to. I want to create games that stand out from the cookie cutters in the industry.
