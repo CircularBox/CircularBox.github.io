@@ -14,3 +14,7 @@ Welcome To my GitHub Pages Portfolio
 - I want to make games that I and other will enjoy playing for hours on end.
 - Great games are made from a place of passion, mediocre games are made from a place of profit.
 - The possibility for games that can be made is endless, many developrs don't take risks like they used to. I want to create games that stand out from the cookie cutters in the industry.
+
+<span style="font-size: 2em;"> **My Projects:** </span>
+- Poly Boom: A low poly art styled wave survival shooter. Physics based destruction is a point of focus in the game's design.
+  - https://github.com/CircularBox/Poly-Boom
